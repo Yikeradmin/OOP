@@ -1,6 +1,4 @@
-import entry.Computer;
-
-public class sdafasdfa {
+public class App {
     public static void main(String[] args) {
 
     }
