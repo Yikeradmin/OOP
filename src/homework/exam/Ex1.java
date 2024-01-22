@@ -4,7 +4,7 @@ import homework.entry.Vehicle;
 
 /**
  * @author: CoolPro
- * @Desc:
+ * @Desc: Vehicle(交通工具)测试类
  * @create: 2024-01-22 16:41
  **/
 

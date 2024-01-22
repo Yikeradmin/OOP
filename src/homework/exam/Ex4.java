@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  * @author: CoolPro
- * @Desc:
+ * @Desc: Student(学生)测试类
  * @create: 2024-01-22 18:37
  **/
 

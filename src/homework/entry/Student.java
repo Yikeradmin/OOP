@@ -2,7 +2,7 @@ package homework.entry;
 
 /**
  * @author: CoolPro
- * @Desc:
+ * @Desc: 学生
  * @create: 2024-01-22 18:32
  **/
 
