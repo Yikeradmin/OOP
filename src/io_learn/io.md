@@ -24,6 +24,15 @@ output:指的是将内存中的数据写到内存中去
 
 ##### 字节输入流(InputStream--抽象类)
 
+FileInputStream 文件字节输入流
+
+* FileInputStream(File file)-->通过File对象获取文件字节流
+* FileInputStream(String name)-->通过文件路径获取文件字节输入流
+
+提供read()方法
+
+* read()-->从何文件中读取一个字节的数据
+* read(byte[] b)-->从文件中读取最多b个字节的数据
 
 ##### 字节输出流(OutputStream--抽象类)
 
