@@ -1,4 +1,4 @@
-package homework;
+package homework.exam;
 
 import homework.entry.Vehicle;
 
